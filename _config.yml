@@ -18,23 +18,46 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
+title: Thanos Kastoras
 email: thanoskastoras@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is my personal mediocre website.
+  In this page I will post some of my work, my projects and
+  my thoughts on various topics, mostly related to computer science.
 domain: akastoras.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://akastoras.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  akastoras
+mastodon:
+  username: akastoras
+  instance: mastodon.social
+
+# Navigation - pages to include in the header navigation
+header_pages:
+  - books.markdown
+  - now.markdown
+  - whoami.markdown
+
+defaults:
+ -
+   scope:
+     path: "posts" # empty string means all files
+   values:
+     layout: "post"
+     author: "Thanos Kastoras"
+
 
 # Build settings
-theme: minima
+theme: jekyll-theme-yat
+
+# Encoding settings
+encoding: utf-8
+
+
 plugins:
   - jekyll-feed
-
+  - jekyll/mastodon_webfinger
+  - jemoji
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
