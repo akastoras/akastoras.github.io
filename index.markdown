@@ -10,7 +10,7 @@ banner: img/stefani.jpg
 
 ---
 
-# Καλημέρα!
+# Γειά!
 My name is Thanos and this is my personal webpage.
 Here you can expect posts about Compilers, Computer Architecture and Computer Science in general, that I will write primarily for myself and secondarily for people who might be interested. From time to time I might also write something completely unrelated. Who knows? Ah, me. :smiley:
 

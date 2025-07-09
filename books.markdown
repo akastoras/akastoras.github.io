@@ -9,7 +9,7 @@ layout: about
 This is a collection of books I have read, am currently reading or want to read. I will try to keep it up to date as much as possible. The point for this page is:
 1. To keep my readings in one place
 2. For people with similar interests to see this list and either contact me to discuss one of those books or suggest a new book to me (see [contact](/contact.markdown))
-3. Seconarily, someone could get inspiration from this list, but if I am being honest I don't care so much about that :joy: 
+3. Also, someone could get inspiration from this list, but if I am being honest I don't care so much about that :joy: 
 
 ## Books I am currently reading
 
