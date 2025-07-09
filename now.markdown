@@ -5,7 +5,7 @@ layout: about
 ---
 
 # What I'm doing now
-(This is a [now](https://nownownow.com/about) page, and if you have your own site, you should make one, too.)
+(This is a [now page](https://nownownow.com/about), and if you have your own site, you should make one, too.)
 
 Updated Jul 9 2025:
 * I am spending the summer in Volos (Greece) living with my parents and working remotely at [BSC](https://www.bsc.es/) :computer:
