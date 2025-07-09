@@ -17,3 +17,10 @@ Here you can expect posts about Compilers, Computer Architecture and Computer Sc
 You can find more about myself at [whoami](/whoami.markdown).
 
 To find out what I'm doing right now look at my [now page](/now.markdown).
+
+You can find my contact information at the [contact page](/contact.markdown).
+
+<!-- Invisible links -->
+<div style="display: none;">
+  <a rel="me" href="https://mastodon.social/@akastoras">Mastodon</a>
+</div>

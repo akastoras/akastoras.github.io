@@ -18,9 +18,3 @@ If you would like to get in touch with me, feel free to reach out via any of the
 - Instagram: [@thanos_kas.c](https://www.instagram.com/thanos_kas.c/)
 
 Sorry for the inconvenient email format but I want to avoid web crawlers. I look forward to hearing from you!
-
-
-<!-- Invisible links -->
-<div style="display: none;">
-  <a rel="me" href="https://mastodon.social/@akastoras">Mastodon</a>
-</div>

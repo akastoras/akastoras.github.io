@@ -34,9 +34,10 @@ mastodon:
 
 # Navigation - pages to include in the header navigation
 header_pages:
-  - books.markdown
-  - now.markdown
   - whoami.markdown
+  - now.markdown
+  - books.markdown
+  - contact.markdown
 
 defaults:
  -
