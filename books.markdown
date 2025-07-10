@@ -44,4 +44,11 @@ General:
 - ...καλά, εσύ σκοτώθηκες νωρίς - Χρόνης Μίσσιος
 
 ## Books I want to read
-(will update someday)
+(will be constantly updating)
+
+Geopolitics:
+*  Democratic ideals and reality; a study in the politics of reconstruction, by Mackinder, Halford John
+*  The Geography of the Peace, by Nicholas John Spykman
+*  ΤΟ ΤΕΛΟΣ ΤΗΣ ΜΕΓΑΛΗΣ ΠΑΡΕΚΚΛΙΣΗΣ, ΠΕΠΟΝΗΣ Β. ΔΗΜΗΤΡΗΣ
+*  The Idiot, Fyodor Dostoyevsky
+*  Demons, Fyodor Dostoyevsky

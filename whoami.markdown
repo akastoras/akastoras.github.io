@@ -31,7 +31,7 @@ I am currently studying towards a diploma in [ECE](https://www.e-ce.uth.gr/) at 
 
 During my studies I have focused mostly on coursework relevant to making computers faster and more reliable. This includes Hardware, Software and System courses. I am very interested in understanding how computers function from the program level to the microarchitecture. This is what drove me to take courses that study the theory behind Operating Systems, Computer Architecture and Compilers and to work on projects that involve the implementation of compilers and the design of computer systems.
 
-One field that I haven't explored as much as I would like is this of programming languages. I plan to cover this gap via self-study.
+One field that I haven't explored as much as I would like to is this of programming languages. I plan to cover this gap via self-study.
 
 ## Languages
 
@@ -45,4 +45,3 @@ One field that I haven't explored as much as I would like is this of programming
 - I love hiking in the mountains. My two favourite mountains are Mt. Pelion where I often hike small trails and Mt. Olympus, the mountains of the gods, where I have been twice :mount_fuji:
 - I love spending time in nature and camping is one of my favouite ways to relax :tent:
 - I enjoy reading books, especially about history, politics and philosophy :book:
-

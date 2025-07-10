@@ -4,3 +4,7 @@ _site
 .jekyll-metadata
 vendor
 Gemfile.lock
+
+
+_posts/2025-07-09-intro-to-riscv.md
+categories.markdown

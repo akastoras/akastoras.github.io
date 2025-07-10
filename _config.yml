@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Thanos Kastoras
+title: akastoras
 email: thanoskastoras@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is my personal mediocre website.
@@ -34,9 +34,12 @@ mastodon:
 
 # Navigation - pages to include in the header navigation
 header_pages:
+  - index.markdown
   - whoami.markdown
+  - cv.markdown
+  - categories.markdown
   - now.markdown
-  - books.markdown
+  - books.markdown   
   - contact.markdown
 
 defaults:
