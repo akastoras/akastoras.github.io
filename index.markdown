@@ -5,7 +5,7 @@
 title: Home
 layout: home
 heading: Thanos Kastoras
-subheading: Compilers, Computer Architecture, Hiking, Philosophy, History, Martial Arts, ...
+subheading: Compilers, Computer Architecture, Hiking, Philosophy, Tango, Martial Arts...
 banner:
   image: img/stefani.jpg
   opacity: 0.618
